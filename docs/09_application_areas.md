@@ -5,6 +5,9 @@ A
 
 ## Revetments
 
+{cite:p}`Barendse2021`
+{cite:p}`Deltares2023`
+
 ## Open filters
 
 {cite:p}`Jacobsen2017`
@@ -16,6 +19,8 @@ A
 ## Crest walls
 
 {cite:p}`Jacobsen2018`
+{cite:p}`IriasMata2023`
+{cite:p}`Gisladottir2025`
 
 ## Vertical breakwaters
 

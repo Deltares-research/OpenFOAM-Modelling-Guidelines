@@ -9,11 +9,15 @@ A
 
 ## Free surface modelling
 
+{cite:p}`Missios2023`
+
 ### VoF method
 
 ## Porosity
 
 ## Wave generation and propagation
+
+{cite:p}`waves2Foam`
 
 ### Wave models
 
