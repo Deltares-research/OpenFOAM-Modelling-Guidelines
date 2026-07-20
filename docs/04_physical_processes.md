@@ -17,6 +17,7 @@ A
 
 ## Wave generation and propagation
 
+{cite:p}`Jacobsen2012`
 {cite:p}`waves2Foam`
 
 ### Wave models
