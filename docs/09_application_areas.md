@@ -5,10 +5,13 @@ A B C
 
 ## Revetments
 
-{cite:p}`Barendse2022`
 {cite:p}`Deltares2023`
 {cite:p}`Chen2021`
 {cite:p}`Chen2022`
+
+### Placed block revetments
+
+{cite:p}`Barendse2022`
 
 ## Open filters
 
@@ -60,8 +63,12 @@ A B C
 
 ## Crest walls
 
-{cite:p}`Jacobsen2018`
+### Wave overtopping
 {cite:p}`IriasMata2023`
+
+### Wave impact forces
+{cite:p}`Jacobsen2018`
+
 {cite:p}`Gisladottir2025`
 
 :::{table} Validity ranges for validation studies with crest walls
