@@ -24,6 +24,17 @@ A B C
 {cite:p}`IriasMata2023`
 {cite:p}`Gisladottir2025`
 
+:::{table} Validity ranges for validation with crest walls
+:label: table
+:align: center
+
+| Variable | {cite:p}`Jacobsen2018` | {cite:p}`IriasMata2023` | 
+| -------- | ---------------------- | ----------------------- |
+|  $\cot\alpha $ | 2.0              | 2.0                     | 
+|  $\frac{h_toe}{H_{m0}} $ | 5.36 - 10.00              | 3.13 - 10.81                     | 
+
+:::
+
 ## Vertical breakwaters
 
 ## Low-crested structures
