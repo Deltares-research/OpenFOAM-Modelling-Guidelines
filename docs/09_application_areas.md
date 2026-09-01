@@ -25,9 +25,9 @@ A B C
 | :---------------- | :---------------: | :--------------------: | 
 | Structure slope   |  $\cot\alpha $    | 4.0 - 7.0              | 
 | Wave steepness    |  $s_{m-1,0} $     | -                      | 
-| Irribarren number |  $\xi_{m-1,0}$    | -                      | 
+| Iribarren number |  $\xi_{m-1,0}$    | -                      | 
 | Wave steepness    |  $s_{0p} $        | 0.015 - 0.040          |
-| Irribarren number |  $\xi_{0p} $      | 0.71 - 2.04            |
+| Iribarren number |  $\xi_{0p} $      | 0.71 - 2.04            |
 | Number of waves   |  $N_{waves} $     | <10,000                |
 | Non-dim. water depth |  $h_{toe}/H_{m0}$ | 4.25 - 10.63           |
 | Rock diameter ratio |  $D_{n50,f}/D_{n50,a}$ | $\ge$ 0.5         |
@@ -48,9 +48,9 @@ A B C
 | :---------------- | :---------------: | :--------------------: | 
 | Structure slope   |  $\cot\alpha $    | 3.0                    | 
 | Wave steepness    |  $s_{m-1,0} $     |                        | 
-| Irribarren number |  $\xi_{m-1,0}$    |                        | 
+| Iribarren number |  $\xi_{m-1,0}$    |                        | 
 | Wave steepness    |  $s_{0p} $        |                        |
-| Irribarren number |  $\xi_{0p} $      |                        |
+| Iribarren number |  $\xi_{0p} $      |                        |
 | Number of waves   |  $N_{waves} $     |                        |
 | Non-dim. water depth |  $h_{toe}/H_{m0}$ |                     |
 | Non-dim. crest freeboard |  $R_{c}/H_{m0} $  |                 | 
@@ -79,9 +79,9 @@ A B C
 | :---------------- | :---------------: | :--------------------: | :---------------------: |
 | Structure slope   |  $\cot\alpha $    | 2.0                    | 2.0                     | 
 | Wave steepness    |  $s_{m-1,0} $     |  -                     | 0.01 - 0.04             | 
-| Irribarren number |  $\xi_{m-1,0}$    |  -                     | 2.45 - 4.38             | 
+| Iribarren number |  $\xi_{m-1,0}$    |  -                     | 2.45 - 4.38             | 
 | Wave steepness    |  $s_{0p} $        | 0.02 - 0.04            |  -                      | 
-| Irribarren number |  $\xi_{0p} $      | 2.50 - 4.08            |  -                      | 
+| Iribarren number |  $\xi_{0p} $      | 2.50 - 4.08            |  -                      | 
 | Number of waves   |  $N_{waves} $     | 339 - 550              | 1,000                   | 
 | Non-dim. water depth |  $h_{toe}/H_{m0}$ | 5.36 - 10.00           | 3.13 - 10.81            | 
 | Non-dim. crest freeboard |  $R_{c}/H_{m0} $  |                        | 0.77 - 2.10             | 
